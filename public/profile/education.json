@@ -1,0 +1,29 @@
+{
+    "education":[
+        {
+            "title": "July 2023 - October 2023",
+            "cardTitle": "Diploma in React + Next JS",
+            "cardSubtitle":"Admec Institute",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "2016-2018",
+            "cardTitle": "M.A., Political Science",
+            "cardSubtitle":"IGNOU, Delhi",
+            "cardDetailedText": "53%"
+        },
+        {
+            "title": "2009-2010",
+            "cardTitle": "12th",
+            "cardSubtitle":"CBSE, Delhi",
+            "cardDetailedText": "Marks - 80%"
+        },
+        {
+            "title": "2007-2008",
+            "cardTitle": "10th",
+            "cardSubtitle":"CBSE, Delhi",
+            "cardDetailedText": "Marks - 73%"
+        }
+
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/project1.png",
+            "title": "Crud BookList",
+            "bodyText": "- Crud BookList made in React\n - Fully customisable and easily change data",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Neha93saini/Crud-list"
+                },
+                {
+                    "text": "Preview",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/digital-clock.png",
+            "title": "Digital Clock",
+            "bodyText": "- Digital Clock using React JS\n -  UseEffect and UseState for rendering the state.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Neha93saini/Clock"
+                },
+                {
+                    "text": "Preview",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/todo1.png",
+            "title": "Todo List",
+            "bodyText": "- Todo List using React JS\n -  Using Redux for rendering the list",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Neha93saini/Todo-List"
+                },
+                {
+                    "text": "Preview",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript",
+                "JavaScript"
+            ]
+        }
+    ]
+}

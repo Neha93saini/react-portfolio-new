@@ -1,0 +1,41 @@
+.eachItem {
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.showItems {
+    height: 150px;
+    overflow-y: auto;
+}
+
+.add-btn {
+    margin-left: 10px;
+    color: green;
+    font-size: 21px;
+}
+
+.remove-btn {
+    margin-left: 10px;
+    color: red;
+    font-size: 25px;
+}
+
+#label-list {
+    color: black;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.todo-btn {
+    text-align: center;
+}
+
+.child-div {
+    text-align: center;
+
+}
